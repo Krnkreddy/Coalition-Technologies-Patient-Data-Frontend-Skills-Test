@@ -1,4 +1,3 @@
-````md
 # 🩺 Tech.Care Patient Dashboard
 
 A fully responsive and data-driven **Patient Dashboard** built using **React**, **Vite**, and **Tailwind CSS**. This dashboard fetches real patient data from the **Coalition Technologies API** and presents it in a clean, professional healthcare interface with charts, vital signs, and diagnosis details.
