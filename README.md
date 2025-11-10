@@ -93,3 +93,11 @@ This project is licensed under the **MIT License**.
 © 2025 **KrnkReddy**. All rights reserved.
 
 ---
+
+## 🙌 Credits
+
+This project was inspired by and builds upon ideas from the open-source work by
+**[Pranav5543/Coalition-Technologies](https://github.com/Pranav5543/Coalition-Technologies)**.
+Huge thanks to their contribution to the developer community.
+
+---
