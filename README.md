@@ -36,7 +36,7 @@ Ensure you have **Node.js** and **npm** (or yarn/pnpm) installed.
 ### 2️⃣ Installation
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Krnkreddy/Coalition-Technologies-Patient-Data-Frontend-Skills-Test.git
 cd patient-dashboard
 npm install
 ````
